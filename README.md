@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sri Kiran Surapaneni
 - 👀 I’m interested in coding, data analytics and visualization
 - 🌱 I’m currently working on SQL, Python and Tableau projects
-- 💞️ I’m looking to collaborate on trainings, projects and build my portfolio
+- 💞️ I’m looking to collaborate on trainings, projects to build my Data Analytics portfolio
 - 📫 How to reach me ...srikiran.surapaneni@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
